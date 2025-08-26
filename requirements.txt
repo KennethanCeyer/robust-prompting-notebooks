@@ -1,0 +1,19 @@
+jupyterlab
+notebook
+
+openai>=1.101.0
+google-genai>=1.31.0
+transformers>=4.55.4
+torch>=2.8.0
+
+# LangChain & ecosystem
+langchain>=0.3.27
+langchain-community>=0.3.27
+faiss-cpu
+chromadb
+
+pandas
+numpy
+matplotlib
+tqdm
+python-dotenv
